@@ -976,6 +976,14 @@ hr {
   }
 }
 
+@media (max-width: 576px) {
+  .blogg-knapp{
+    width:100%;
+  }
+
+  
+}
+
 .btn-dark{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
